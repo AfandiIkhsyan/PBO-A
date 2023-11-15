@@ -22,3 +22,5 @@
 1. Jalankan `Main.java`.
 2. Objek `CPU` akan dibuat bersama dengan beberapa komponen seperti `Processor`, `RAM`, `Harddisk`, `VGACard`, `Motherboard`, dan `PowerSupply`.
 3. Informasi dari setiap komponen akan ditampilkan melalui metode `getInfo`.
+
+![Hasil Run](Capture.png)
