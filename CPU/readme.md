@@ -23,4 +23,6 @@
 2. Objek `CPU` akan dibuat bersama dengan beberapa komponen seperti `Processor`, `RAM`, `Harddisk`, `VGACard`, `Motherboard`, dan `PowerSupply`.
 3. Informasi dari setiap komponen akan ditampilkan melalui metode `getInfo`.
 
+### Capture Program
+Berikut adalah tangkapan layar hasil program:
 ![Hasil Run](Capture.png)
